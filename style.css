@@ -21,7 +21,8 @@
         0%   {background: #99B898;}
         25%  {background: #FF847C;}
         50%  {background: #E84A5F;}
-        100% {background: #57707A;}
+        75% {background: #57707A;}
+        100%   {background: #99B898;}
     }
 
 @-webkit-keyframes colorchange
@@ -29,7 +30,8 @@
         0%   {background: #99B898;}
         25%  {background: #FF847C;}
         50%  {background: #E84A5F;}
-        100% {background: #57707A;}
+        75% {background: #57707A;}
+        100%   {background: #99B898;}
     }
 
 html {
