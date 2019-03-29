@@ -47,6 +47,9 @@ h1 {
     font-size: 60px;
     text-align: center;   
 }
+.title {
+    margin-top: 0px;
+}
 .responsive-video {
     position: relative;
     padding-bottom: 56.25%;
