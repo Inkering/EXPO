@@ -18,25 +18,27 @@
 
 @keyframes colorchange
     {
-        0%   {background: #99B898;}
-        25%  {background: #FF847C;}
-        50%  {background: #E84A5F;}
-        75% {background: #57707A;}
-        100%   {background: #99B898;}
+        0%   {background: #009bdf;}
+        25%  {background: #00aa69;}
+        50%  {background: #cf128c;}
+        75% {background: #ffd400;}
+        90%   {background: #999999;}
+        100%   {background: #009bdf;}
     }
 
 @-webkit-keyframes colorchange
     {
-        0%   {background: #99B898;}
-        25%  {background: #FF847C;}
-        50%  {background: #E84A5F;}
-        75% {background: #57707A;}
-        100%   {background: #99B898;}
+        0%   {background: #009bdf;}
+        25%  {background: #00aa69;}
+        50%  {background: #cf128c;}
+        75% {background: #ffd400;}
+        90%   {background: #999999;}
+        100%   {background: #009bdf;}
     }
 
 html {
-    animation: colorchange 60s infinite;
-    -webkit-animation: colorchange 60s infinite;
+    animation: colorchange 20s infinite;
+    -webkit-animation: colorchange 20s infinite;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     background-color: #3D3D3D;
@@ -62,7 +64,7 @@ body {
     padding-left: 20px;
 }
 h1 {
-    font-size: 60px;
+    font-size: 160px;
     text-align: center;   
 }
 .title {
