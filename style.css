@@ -83,6 +83,11 @@ p {
 .date {
     margin-top: 0px;
     margin-bottom: 0px;
+    
+}
+.lead {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .responsive-video {
     position: relative;
