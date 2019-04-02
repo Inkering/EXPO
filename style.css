@@ -71,12 +71,17 @@ h2 {
     font-size: 8vw;
     text-align: center;   
 }
+
+p {
+  text-align: center;
+  margin-top:-40px;
+}
 .title {
     margin-top: 0px;
     margin-bottom: 0px;
 }
 .date {
-    margin-top: -20px;
+    margin-top: 0px;
     margin-bottom: 0px;
 }
 .responsive-video {
