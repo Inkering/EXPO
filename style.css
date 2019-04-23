@@ -39,7 +39,7 @@
 html {
     animation: colorchange 20s infinite;
     -webkit-animation: colorchange 20s infinite;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Zilla Slab', serif;
     font-weight: 700;
     background-color: #3D3D3D;
     color: rgb(255, 255, 255);
@@ -50,24 +50,31 @@ body {
   margin: 0;
   padding: 0;
 }
-/* .page-content {
-    min-height: 100%;
+a {
+    text-decoration: none;
+}
+.page-content {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    text-align: center;
-} */
+}
+.map {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
 .logo {
     height: 5rem;
     padding-top: 20px;
     padding-left: 20px;
 }
 h1 {
+    font-family: 'Montserrat', sans-serif;
     font-size: 20vw;
     text-align: center;   
 }
 h2 {
+    font-family: 'Montserrat', sans-serif;
     font-size: 8vw;
     text-align: center;   
 }
